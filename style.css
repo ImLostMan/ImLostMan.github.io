@@ -168,10 +168,7 @@ footer{
     background-color: rgb(26, 138, 104);
     color: #fff;
 }
-.label p:hover{
-    background-color: rgb(10, 10, 10);
-    color: #fff;
-    display: inline-block;
+
 }
 @keyframes puter{
     100%{
